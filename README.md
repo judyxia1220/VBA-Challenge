@@ -1,5 +1,8 @@
 # VBA-Challenge
 
+Note:
+* It takes a while for the results to show on excel. 
+
 Resources & References:
 1) https://officetuts.net/excel/vba/find-the-maximum-and-minimum-value-in-the-range-in-vba/
    To find min and max percentages 
